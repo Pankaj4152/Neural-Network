@@ -16,7 +16,7 @@ Pandas: For loading the dataset
 Matplotlib: For visualizing digits
 
 # Results
-After training for 500 iterations with a learning rate of 0.1, the network achieves around 90% accuracy on the test set.
+After training for 500 iterations with a learning rate of 0.2, the network achieves around 92% accuracy on the test set.
 
 # Why I Built This
 I wanted to learn how neural networks work at a low level by implementing everything manually. It was a great learning experience, especially when it came to understanding how the math behind the network translates into code.
