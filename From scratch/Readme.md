@@ -5,10 +5,10 @@ This repository contains a neural network I built from scratch using Python and 
 I built this neural network without using any frameworks like TensorFlow or PyTorch, just plain Python and NumPy. It was a challenge, but it helped me understand forward propagation, backpropagation, and gradient descent in a much deeper way.
 
 # Architecture
-Input Layer: 784 neurons (28x28 pixels)
-Hidden Layer 1: 64 neurons, ReLU activation
-Hidden Layer 2: 32 neurons, ReLU activation
-Output Layer: 10 neurons (for digits 0-9), Softmax activation
+Input Layer: 784 neurons (28x28 pixels)  
+Hidden Layer 1: 64 neurons, ReLU activation  
+Hidden Layer 2: 32 neurons, ReLU activation  
+Output Layer: 10 neurons (for digits 0-9), Softmax activation  
 
 # Requirements
 NumPy: For matrix operations
